@@ -1,0 +1,7 @@
+{
+  "name": "Project ORPHEUS Web",
+  "description": "A web-based implementation of the Sweet-16 Harmonic Stack generator, featuring Eye-of-Horus fractal gating and Schumann resonance modulation, enhanced with a Gemini-powered Sonic Oracle.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
